@@ -23,6 +23,10 @@ Terceiro Passo: Ao entrar no site, aperta em "Download" que irá abrir a opção
 
 <a href="http://tinypic.com?ref=20puc5k" target="_blank"><img src="http://i67.tinypic.com/20puc5k.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, quando abrir, ele vai pedir pra escolher a seguinte linguagem que deseja. 
+Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, quando abrir, ele vai pedir pra escolher à seguinte linguagem que deseja. 
 
 <a href="http://tinypic.com?ref=e9ui5e" target="_blank"><img src="http://i68.tinypic.com/e9ui5e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Quando você selecionar a "linguagem", você aperta "Instalar UBUNTU" e vai ser instalado, aguarde uns minutinhos para ser instalado de forma correta.
+
+<a href="http://tinypic.com?ref=2njikqr" target="_blank"><img src="http://i65.tinypic.com/2njikqr.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
