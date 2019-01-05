@@ -8,7 +8,7 @@ Falando um pouco sobre o LINUX.
 
 "O sistema operacional GNU/Linux foi desenvolvido por Linus Torvalds, na Finlândia, em 1991. Ele é uma versão do SO Unix que possui código aberto e pode ser escrito e distribuído por qualquer tipo de usuário na internet, por ser um software gratuito (free software), sendo proibido a comercialização do sistema."
 
-### Vamos aprender a Instalar o LINUX em seu Computador, preste bem atenção.
+### Vamos aprender a Instalar o LINUX em seu computador, preste bem atenção.
 
 
 Primeiro Passo: (Não esqueça) Faça o backup de todos os seus arquivos importantes e instale um novo sistema operacional, pode atrapalhar em algumas coisas. Então faça um backup de fotos, vídeos, textos, tudo o que for muito importante para você, e leve o conteúdo para um HD externo ou um pen drive, qualquer lugar que você possa deixar com grande segurança.
