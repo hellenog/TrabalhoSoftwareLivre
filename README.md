@@ -15,4 +15,10 @@ Link: https://pt.wikipedia.org/wiki/Linux
 
 Primeiro Passo: (Não esqueça) Faça o backup de todos os seus arquivos importantes e instale um novo sistema operacional, pode atrapalhar em algumas coisas. Então faça um backup de fotos, vídeos, textos, tudo o que for muito importante para você, e leve o conteúdo para um HD externo ou um pen drive, qualquer lugar que você possa deixar com grande segurança.
 
-Segundo Passo: 
+Segundo Passo: Entre no seguinte link > https://www.ubuntu.com/
+
+  <a href="http://pt-br.tinypic.com?ref=a9pgfc" target="_blank"><img src="http://i64.tinypic.com/a9pgfc.png" border="0" alt="Image and video hosting by TinyPic"></a>	
+
+Terceiro Passo: Ao entrar no site, aperta em "Download" que irá abrir a opção UBUNTU DESKTOP, você vai apertar para instalar a ISO.
+
+Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, 
