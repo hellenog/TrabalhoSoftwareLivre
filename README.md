@@ -8,6 +8,8 @@ Falando um pouco sobre o LINUX.
 
 "O sistema operacional GNU/Linux foi desenvolvido por Linus Torvalds, na Finlândia, em 1991. Ele é uma versão do SO Unix que possui código aberto e pode ser escrito e distribuído por qualquer tipo de usuário na internet, por ser um software gratuito (free software), sendo proibido a comercialização do sistema."
 
+Link: https://pt.wikipedia.org/wiki/Linux
+
 ### Vamos aprender a Instalar o LINUX em seu computador, preste bem atenção.
 
 
