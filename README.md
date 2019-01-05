@@ -30,3 +30,17 @@ Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu co
 Quando você selecionar a "linguagem", você aperta "Instalar o UBUNTU" e vai ser instalado, aguarde uns minutinhos para ser instalado de forma correta.
 
 <a href="http://tinypic.com?ref=2njikqr" target="_blank"><img src="http://i65.tinypic.com/2njikqr.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Quinto Passo: Escolha o Layout do seu Teclado, que você deseja.
+
+<a href="http://tinypic.com?ref=ipsjed" target="_blank"><img src="http://i63.tinypic.com/ipsjed.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Sexto Passo: Vai abrir uma parte de "Atualizações e outro Software" você vai apertar em "Instalação Normal"
+
+<a href="http://tinypic.com?ref=bfmaeb" target="_blank"><img src="http://i67.tinypic.com/bfmaeb.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Depois vai aparecer para escolher o tipo de instalação que deseja, vamos escolher do jeito mais básico, você vai apertar na primeira opção que está escrito "Apagar disco e reinstalar o Ubuntu"
+
+<a href="http://tinypic.com?ref=bjbvnp" target="_blank"><img src="http://i63.tinypic.com/bjbvnp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
