@@ -45,7 +45,7 @@ Depois vai aparecer para escolher o tipo de instalação que deseja, vamos escol
 
 Vai abrir está parte de "Escrever as mudanças nos discos" vocês clicam em "Continuar" isso ele está mostrando as seguintes partições.
 
-<a href="http://tinypic.com?ref=snex6d" target="_blank"><img src="http://i66.tinypic.com/snex6d.png" border="0" alt="Image and video hosting by TinyPic"></a>
+<a href="http://tinypic.com?ref=vyqtf7" target="_blank"><img src="http://i64.tinypic.com/vyqtf7.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
 Sétimo Passo: Você vai por a sua "região", ele vai definir o seguinte horário da região que você colocou.
 
@@ -55,3 +55,18 @@ Oitavo Passo: Preencha este cadastro como se fosse uma conta online, não se esq
 
 <a href="http://tinypic.com?ref=34zyi2v" target="_blank"><img src="http://i68.tinypic.com/34zyi2v.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
+Agora aguarde a instalação, ele vai demorar em alguns minutinhos.
+
+<a href="http://tinypic.com?ref=f44507" target="_blank"><img src="http://i68.tinypic.com/f44507.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Terminando a sua instalação, vai aparecer a tela de login, agora você coloca a mesma senha que colocou, em seu cadastro, ok? 
+
+<a href="http://tinypic.com?ref=210bldy" target="_blank"><img src="http://i63.tinypic.com/210bldy.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Clique em “Reiniciar”, remova o disco do drive e pronto. Seu sistema agora tem o Ubuntu instalado. Ao reiniciar, coloque a senha que você criou no oitavo passo e aproveite o novo sistema.
+
+<a href="http://tinypic.com?ref=20z44n4" target="_blank"><img src="http://i68.tinypic.com/20z44n4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Fim, aproveite, espero que vocês tenham gostado, esse é meu tutorial, muito obrigada pela atenção.
+
+<a href="http://tinypic.com?ref=169ncq9" target="_blank"><img src="http://i68.tinypic.com/169ncq9.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
