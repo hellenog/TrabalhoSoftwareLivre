@@ -39,8 +39,19 @@ Sexto Passo: Vai abrir uma parte de "Atualizações e outro Software" você vai 
 
 <a href="http://tinypic.com?ref=bfmaeb" target="_blank"><img src="http://i67.tinypic.com/bfmaeb.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Depois vai aparecer para escolher o tipo de instalação que deseja, vamos escolher do jeito mais básico, você vai apertar na primeira opção que está escrito "Apagar disco e reinstalar o Ubuntu"
+Depois vai aparecer para escolher o tipo de instalação que deseja, vamos escolher do jeito mais básico, você vai apertar na primeira opção que está escrito "Apagar disco e reinstalar o Ubuntu" assim que apertar em "Instalar agora" aguarde uns minutos e vamos para o próximo passo.
 
 <a href="http://tinypic.com?ref=bjbvnp" target="_blank"><img src="http://i63.tinypic.com/bjbvnp.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
+Vai abrir está parte de "Escrever as mudanças nos discos" vocês clicam em "Continuar" isso ele está mostrando as seguintes partições.
+
+<a href="http://tinypic.com?ref=snex6d" target="_blank"><img src="http://i66.tinypic.com/snex6d.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Sétimo Passo: Você vai por a sua "região", ele vai definir o seguinte horário da região que você colocou.
+
+<a href="http://tinypic.com?ref=2h87iop" target="_blank"><img src="http://i68.tinypic.com/2h87iop.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Oitavo Passo: Preencha este cadastro como se fosse uma conta online, não se esqueça da senha, então coloque uma senha que você irá gravar, é com ela que você vai ter acesso ao seu computador.
+
+<a href="http://tinypic.com?ref=34zyi2v" target="_blank"><img src="http://i68.tinypic.com/34zyi2v.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
