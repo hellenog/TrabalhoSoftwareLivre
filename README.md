@@ -21,4 +21,8 @@ Segundo Passo: Entre no seguinte link > https://www.ubuntu.com/
 
 Terceiro Passo: Ao entrar no site, aperta em "Download" que irá abrir a opção UBUNTU DESKTOP, você vai apertar para instalar a ISO.
 
-Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, 
+<a href="http://tinypic.com?ref=20puc5k" target="_blank"><img src="http://i67.tinypic.com/20puc5k.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
+Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, quando abrir, ele vai pedir pra escolher a seguinte linguagem que deseja. 
+
+<a href="http://tinypic.com?ref=e9ui5e" target="_blank"><img src="http://i68.tinypic.com/e9ui5e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
