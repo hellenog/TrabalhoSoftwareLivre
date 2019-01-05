@@ -23,7 +23,7 @@ Terceiro Passo: Ao entrar no site, aperta em "Download" que irá abrir a opção
 
 <a href="http://tinypic.com?ref=20puc5k" target="_blank"><img src="http://i67.tinypic.com/20puc5k.png" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, quando abrir, ele vai pedir pra escolher à seguinte linguagem que deseja. 
+Quarto Passo: Prepare um Pen Drive bootável, CD, o que vocês tiver, para ser instalado a ISO em seu computador, deixe já tudo preparado para começar a seguinte instalação. Primeiro de tudo, vamos dar o boot, quando abrir, ele vai pedir pra escolher à seguinte linguagem que deseja. 
 
 <a href="http://tinypic.com?ref=e9ui5e" target="_blank"><img src="http://i68.tinypic.com/e9ui5e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
@@ -70,3 +70,7 @@ Clique em “Reiniciar”, remova o disco do drive e pronto. Seu sistema agora t
 Fim, aproveite, espero que vocês tenham gostado, esse é meu tutorial, muito obrigada pela atenção.
 
 <a href="http://tinypic.com?ref=169ncq9" target="_blank"><img src="http://i68.tinypic.com/169ncq9.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+
+
+
+Hellen de Oliveira Gomes - SENAC 2019 - 07/01/2019.
