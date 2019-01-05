@@ -15,7 +15,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hellenog/TrabalhoSoftwareLivre/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Primeiro Passo: (Não esqueça) Faça o backup de todos os seus arquivos importantes e instale um novo sistema operacional, pode atrapalhar em algumas coisas. Então faça um backup de fotos, vídeos, textos, tudo o que for muito importante para você, e leve o conteúdo para um HD externo ou um pen drive, qualquer lugar que você possa deixar com grande segurança.
 
 ### Support or Contact
 
