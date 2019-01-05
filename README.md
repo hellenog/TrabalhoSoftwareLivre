@@ -27,6 +27,6 @@ Quarto Passo: Prepare um Pen Drive bootável, para ser instalado a ISO em seu co
 
 <a href="http://tinypic.com?ref=e9ui5e" target="_blank"><img src="http://i68.tinypic.com/e9ui5e.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-Quando você selecionar a "linguagem", você aperta "Instalar UBUNTU" e vai ser instalado, aguarde uns minutinhos para ser instalado de forma correta.
+Quando você selecionar a "linguagem", você aperta "Instalar o UBUNTU" e vai ser instalado, aguarde uns minutinhos para ser instalado de forma correta.
 
 <a href="http://tinypic.com?ref=2njikqr" target="_blank"><img src="http://i65.tinypic.com/2njikqr.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
