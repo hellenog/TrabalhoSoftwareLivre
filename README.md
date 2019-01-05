@@ -1,17 +1,10 @@
-## Trabalho Software Livre
+##                                         Trabalho Software Livre
 
 ```markdown
-Trabalho SENAC 2019.
+Trabalho SENAC 2019 - Vamos aprender a Instalar o LINUX em seu Computador.
 
-# Boa noite, vamos aprender a fazer a instalação do Linux em seu Computador, não é nada tão complicado, então vamos prestar atenção, ok?
-## Header 2
-### Header 3
+Primeiro Passo: (Não esqueça) Faça o backup de todos os seus arquivos importantes e instale um novo sistema operacional, pode atrapalhar em algumas coisas. Então faça um backup de fotos, vídeos, textos, tudo o que for muito importante para você, e leve o conteúdo para um HD externo ou um pen drive, qualquer lugar que você possa deixar com grande segurança.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
